@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laila\\Documents\\DIO\\ProjetoEntendendoC\\ProjetoEntendendoC.csproj",
+      "projectUniqueName": "C:\\Users\\laila\\Documents\\DIO\\Cursos\\ProjetoEntendendoC.csproj",
       "projectName": "ProjetoEntendendoC",
-      "projectPath": "C:\\Users\\laila\\Documents\\DIO\\ProjetoEntendendoC\\ProjetoEntendendoC.csproj",
+      "projectPath": "C:\\Users\\laila\\Documents\\DIO\\Cursos\\ProjetoEntendendoC.csproj",
       "packagesPath": "C:\\Users\\laila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laila\\Documents\\DIO\\ProjetoEntendendoC\\obj\\",
+      "outputPath": "C:\\Users\\laila\\Documents\\DIO\\Cursos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
