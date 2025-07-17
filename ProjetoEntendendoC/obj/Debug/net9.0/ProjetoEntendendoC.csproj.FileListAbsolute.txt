@@ -1,0 +1,14 @@
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\bin\Debug\net9.0\ProjetoEntendendoC.exe
+C:\Users\laila\Documents\DIO\ProjetoEntendendoC\bin\Debug\net9.0\ProjetoEntendendoC.deps.json
+C:\Users\laila\Documents\DIO\ProjetoEntendendoC\bin\Debug\net9.0\ProjetoEntendendoC.runtimeconfig.json
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\bin\Debug\net9.0\ProjetoEntendendoC.dll
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\bin\Debug\net9.0\ProjetoEntendendoC.pdb
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.AssemblyInfoInputs.cache
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.AssemblyInfo.cs
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.csproj.CoreCompileInputs.cache
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.dll
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\refint\ProjetoEntendendoC.dll
+c:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.pdb
+C:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ProjetoEntendendoC.genruntimeconfig.cache
+C:\Users\laila\Documents\DIO\ProjetoEntendendoC\obj\Debug\net9.0\ref\ProjetoEntendendoC.dll
