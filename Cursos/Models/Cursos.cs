@@ -28,13 +28,8 @@ namespace ProjetoEntendendoC.Models {
         }
 
         public void ListarAlunos() {
-            if (Alunos == null || Alunos.Count == 0) {
-                Console.WriteLine("Nenhum aluno cadastrado.");
-                return;
-            }
-
-            foreach (var aluno in Alunos) {
-                Console.WriteLine($"Nome: {aluno.NomeCompleto}, Idade: {aluno.Idade}");
+            for (int count = 0; count < Alunos.Count; count++) {
+                Console.WriteLine($"Aluno {count + 1}: {Alunos[count].NomeCompleto}");
             }
         }
     }

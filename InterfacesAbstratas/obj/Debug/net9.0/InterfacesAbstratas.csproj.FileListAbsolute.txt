@@ -1,0 +1,15 @@
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\bin\Debug\net9.0\InterfacesAbstratas.exe
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\bin\Debug\net9.0\InterfacesAbstratas.deps.json
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\bin\Debug\net9.0\InterfacesAbstratas.runtimeconfig.json
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\bin\Debug\net9.0\InterfacesAbstratas.dll
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\bin\Debug\net9.0\InterfacesAbstratas.pdb
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.AssemblyInfoInputs.cache
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.AssemblyInfo.cs
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.sourcelink.json
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.dll
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\refint\InterfacesAbstratas.dll
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.pdb
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\InterfacesAbstratas.genruntimeconfig.cache
+C:\Users\laila\Documents\DIO\InterfacesAbstratas\obj\Debug\net9.0\ref\InterfacesAbstratas.dll

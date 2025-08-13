@@ -1,0 +1,17 @@
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Nova pasta.exe
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Nova pasta.deps.json
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Nova pasta.runtimeconfig.json
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Nova pasta.dll
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Nova pasta.pdb
+C:\Users\laila\Documents\Nova pasta\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.AssemblyInfo.cs
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.csproj.Up2Date
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.dll
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\refint\Nova pasta.dll
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.pdb
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\Nova pasta.genruntimeconfig.cache
+C:\Users\laila\Documents\Nova pasta\obj\Debug\net9.0\ref\Nova pasta.dll
